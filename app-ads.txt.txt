@@ -1,3 +1,4 @@
+facebook.com, 1111159401491686, DIRECT, c3e20eee3f780d68
 google.com, pub-8132006055577991, DIRECT, f08c47fec0942fa0
 vungle.com,6abb7aa3fb6acbb421dbcaa0,DIRECT,c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
